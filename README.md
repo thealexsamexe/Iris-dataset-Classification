@@ -28,15 +28,19 @@ The dataset used in this project is included as `iris.csv`. This dataset is a fr
 For univariate plot, a box and whisker plot and a histogram was plotted.
 
 The preliminary results were obtained via plotting the dataset on Box and Whisker plot.
+
 ![alt text](Images/boxplot.png)
 
 To obtain the frequency of the range of different features based on numerical data, a histogram was plotted and results were visualized in it.
+
 ![alt text](Images/hist.png)
 
 Furthermore, to understand correlate the histogram with the data more, a scatter matrix was plotted.
+
 ![alt text](Images/scatter.png)
 
 Violin plot was used for checking the comparison of variable distribution between features
+
 ![alt text](Images/v1.png)
 
 ![alt text](Images/v2.png)
