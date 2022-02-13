@@ -17,11 +17,12 @@ This project requires at least **Python 3.1** and the following Python libraries
 The dataset used in this project is included as `iris.csv`. This dataset is a freely available on the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/). This dataset has the following attributes:
 
 **Features**
-1.  `Features`: sepal-length, sepal-width, petal-length, petal-width
+
+`Features`: sepal-length, sepal-width, petal-length, petal-width
 
 **Target Variable**
 
-4. `Target`: class
+`Target`: class
 
 ### Data Visualization
 
